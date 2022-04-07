@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Jaemin%20An&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Jaemin%20An&fontSize=36)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
