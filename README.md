@@ -1,7 +1,9 @@
-### Welcome
 
 
-### 🛠 Tech Stack
+## 💡 Intro
+
+
+## 🛠 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -19,8 +21,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
 
-
-
+## 📞 Contact
+<img src="https://img.shields.io/badge/anjm0408@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"> 
   
 
 
