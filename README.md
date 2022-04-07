@@ -1,9 +1,14 @@
+### 💡 Intro
+안녕하세요. <br/>
+백엔드 개발자 안재민입니다. <br/>
+주로 Java와 Spring을 활용한 웹 애플리케이션을 개발했습니다.
 
+### 🏆 Project
+|Period|Subject|Description|
+|:--|:--|:--|
+|2018.11~2019.04|포스코 발전소 에너지효율 예측 시스템 구축|
 
-## 💡 Intro
-
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -21,7 +26,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
 
-## 📞 Contact
+### 📞 Contact
 <img src="https://img.shields.io/badge/anjm0408@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"> 
   
 
