@@ -1,6 +1,6 @@
 ### 💡 Intro
-안녕하세요. 백엔드 개발자 안재민입니다. <br/>
-주로 Java, Spring기반 웹 애플리케이션을 개발했습니다. <br/>
+안녕하세요. <br/>
+웹 어플리케이션 개발자 안재민입니다. <br/>
 
 ### 🏆 Project
 |Period|Subject|Client|Skill|
